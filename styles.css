@@ -1,2 +1,23 @@
+label{
+	display: block;
+	margin-bottom: 5px;
+}
 
+#tos{
+	margin-right: 20px;
+}
+
+#submit{
+	background-color: #007dff;
+	border: none;
+	width: 100px;
+	height: 40px;
+	border-radius: 5px;
+	font-size: 16px;
+}
+
+#submit:hover{
+	background-color: #660000;
+	color: #ffffff;
+}
 /* Your CSS Code here. */
